@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "zone": "Zone 0"
+        "zone": "0",
+        "people": "2"
       },
       "geometry": {
         "type": "Polygon",
